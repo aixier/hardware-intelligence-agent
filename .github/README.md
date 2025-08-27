@@ -1,64 +1,47 @@
-# GitHub Repository Configuration
+# 🤖 Hardware Intelligence Agent - Development Resources
 
-## 🎯 Repository SEO Settings
+## 🛠️ Development Workflow
 
-### Repository Description
-```
-🤖 The world's most advanced open-source AI edge computing development framework for CSK6 intelligent chips. Transform hardware ideas into intelligent IoT products in minutes, not months.
-```
+### 🐛 Bug Reports & Issues
+- Use our [issue templates](.github/ISSUE_TEMPLATE/) for consistent reporting
+- Include hardware specifications and system information
+- Provide clear reproduction steps and expected behavior
 
-### Topics (GitHub Tags)
-**Core Technologies (Primary):**
-- `ai-edge-computing`
-- `csk6-development` 
-- `embedded-ai`
-- `edge-computing`
-- `artificial-intelligence`
-- `machine-learning`
-- `iot-development`
-- `voice-recognition`
-- `computer-vision`
-- `npu-acceleration`
+### ✨ Feature Requests  
+- Describe the use case and business value
+- Include mockups, diagrams, or examples when possible
+- Consider backward compatibility and performance impact
 
-**Platform & Framework:**
-- `zephyr-rtos`
-- `embedded-systems`
-- `tensorflow-lite`
-- `lisa-zep`
-- `hardware-abstraction`
-- `firmware-development`
-- `microcontroller`
-- `real-time-systems`
+### 🔄 Pull Requests
+- Follow our [contribution guidelines](../CONTRIBUTING.md)
+- Ensure all tests pass and documentation is updated
+- Include clear description of changes and testing approach
 
-**Applications:**
-- `smart-speaker`
-- `voice-assistant`
-- `iot-gateway`
-- `industrial-iot`
-- `smart-home`
-- `audio-processing`
-- `speech-recognition`
-- `face-detection`
+## 📋 Issue & PR Templates
 
-**Development:**
-- `development-framework`
-- `sdk`
-- `open-source`
-- `mit-license`
-- `developer-friendly`
-- `production-ready`
+We provide templates for:
+- 🐛 **Bug Report**: For reporting software defects
+- ✨ **Feature Request**: For suggesting new capabilities  
+- 📚 **Documentation**: For improving guides and references
+- 🔒 **Security**: For reporting vulnerabilities (use private disclosure)
+- 🤝 **Community**: For general discussion and support
+
+## 🚀 Automated Workflows
+
+Our CI/CD pipeline includes:
+- ✅ **Continuous Integration**: Automated testing on multiple platforms
+- 🔍 **Code Quality**: Static analysis, linting, and security scanning
+- 📦 **Release Automation**: Automated builds, packaging, and distribution
+- 🌍 **Multi-platform**: Testing on Windows, Linux, and macOS
+
+## 🤝 Community Guidelines
+
+- **🌍 Inclusive**: Welcome developers of all backgrounds and experience levels
+- **🔓 Open**: Transparent development process and decision making
+- **🎯 Quality**: High standards for code, documentation, and user experience
+- **🚀 Innovation**: Pushing the boundaries of AI edge computing
 
 ---
 
-## 📊 SEO Keywords Strategy
-
-### Target Keywords
-1. **ai edge computing** - 22K searches/month
-2. **embedded ai development** - 8.5K searches/month  
-3. **voice recognition sdk** - 12K searches/month
-4. **iot development framework** - 15K searches/month
-5. **csk6 development** - 2.1K searches/month
-
----
-
-*Configured for optimal GitHub discoverability and SEO performance*
+*For detailed contribution guidelines, see [CONTRIBUTING.md](../CONTRIBUTING.md)*
+*For security policies, see [SECURITY.md](../SECURITY.md)*
