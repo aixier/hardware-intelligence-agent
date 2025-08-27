@@ -1,0 +1,3 @@
+[submodule "resources/references/docs-csk6"]
+	path = resources/references/docs-csk6
+	url = https://github.com/LISTENAI/docs-csk6.git

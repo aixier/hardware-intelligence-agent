@@ -1,6 +1,19 @@
 # Contributing to Hardware Intelligence Agent 🤝
 
-Thank you for your interest in contributing to Hardware Intelligence Agent! This document provides guidelines and information for contributors.
+> **Welcome to the global community of hardware intelligence innovators!**
+
+Thank you for your interest in contributing to Hardware Intelligence Agent! As the world's most advanced open-source AI edge computing development platform, we believe that great innovations come from diverse minds working together. This document provides comprehensive guidelines for contributors at all levels.
+
+## 🌟 Our Mission & Values
+
+**Mission**: Make AI hardware development accessible to everyone, everywhere.
+
+**Core Values**:
+- 🌍 **Inclusivity**: Welcoming developers from all backgrounds and skill levels
+- 🔓 **Transparency**: Open development process and clear communication  
+- 🎯 **Excellence**: High-quality code, documentation, and user experience
+- 🚀 **Innovation**: Pushing the boundaries of what's possible with AI hardware
+- 🤝 **Collaboration**: Building together as a global community
 
 ## 🚀 Ways to Contribute
 
