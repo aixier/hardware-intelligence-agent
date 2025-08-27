@@ -2,6 +2,8 @@
 
 <div align="center">
 
+**语言选择** | **🇨🇳 中文** | [🇺🇸 English](README.md)
+
 [![GitHub 星标](https://img.shields.io/github/stars/aixier/hardware-intelligence-agent.svg?style=social&label=⭐%20星标)](https://github.com/aixier/hardware-intelligence-agent)
 [![GitHub Fork](https://img.shields.io/github/forks/aixier/hardware-intelligence-agent.svg?style=social&label=🍴%20Fork)](https://github.com/aixier/hardware-intelligence-agent/fork)
 [![开源协议](https://img.shields.io/badge/📄%20协议-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
